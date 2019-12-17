@@ -2,5 +2,4 @@
 I've used Font Awesome for icons and Google Fonts for text font.
 For making beautiful background uiGradients helped me.
 _______________________________
-On Github Page:<br />
 <a href="https://mrjeyhun.github.io/ToDoList/">View demo</a>
